@@ -1,0 +1,5 @@
+# Ignore folder .vscode
+**/.vscode
+
+#Ignore tabel
+**/tabel
